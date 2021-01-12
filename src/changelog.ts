@@ -117,6 +117,7 @@ const TYPES = {
   revert: "Reverts",
   style: "Code Style Changes",
   test: "Tests",
+  visual: "Visual"
 };
 
 interface Logs {
