@@ -118,6 +118,8 @@ const TYPES = {
   style: "Code Style Changes",
   test: "Tests",
   visual: "Visual",
+  content: "Content",
+  audio: "Audio",
 };
 
 interface Logs {
